@@ -6,4 +6,4 @@
 # Email 		=	"your@email.com"
 # ========================================================================
 
-puts "My favorite fruits are: #{ARGV[0]}s and #{ARGV[1]}s" 
+puts "When I am dividing: #{ARGV[0]} by #{ARGV[1]} I am always have #{ARGV[0].to_i / ARGV[1].to_i}!"

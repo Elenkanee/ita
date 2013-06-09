@@ -6,4 +6,4 @@
 # Email 		=	"your@email.com"
 # ========================================================================
 
-puts "My favorite fruits are: #{ARGV[0]}s and #{ARGV[1]}s" 
+puts "My favorite fruits are: #{ARGV[0].chop} and #{ARGV[1].chop}" 

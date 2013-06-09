@@ -6,4 +6,4 @@
 # Email 		=	"your@email.com"
 # ========================================================================
 
-puts "My favorite fruits are: #{ARGV[0]}s and #{ARGV[1]}s" 
+puts "My IP Address is: #{ARGV[0]}.#{ARGV[1]}.#{ARGV[2]}.#{ARGV[3]}" 
