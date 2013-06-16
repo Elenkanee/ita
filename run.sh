@@ -19,6 +19,9 @@
 
 #ruby ./hw_15/lib/script_15.rb
 
+ruby ./hw_16/lib/script_16_01.rb
+ruby ./hw_16/lib/script_16_02.rb
+
 #ruby ./hw_17/lib/script_17_01.rb -f apple -s banana
 #ruby ./hw_17/lib/script_17_02.rb -f apples -s bananas
 #ruby ./hw_17/lib/script_17_03.rb -f 100 -s 10
@@ -39,7 +42,7 @@
 #ruby ./hw_18/lib/script_18_06.rb -a 23 -b 15 -c 97 -d 45 -e 365 -f 1234 -g 523665 -h 45 -i 2971 -j 22145
 #ruby ./hw_18/lib/script_18_07.rb -s Wednesday morning, John Smith was walking on the street.
 #ruby ./hw_18/lib/script_18_07.rb -s Monday evening, Alex More was walking on the street.
-ruby ./hw_18/lib/script_18_08.rb -s Spring Summer Fall Winter
+#ruby ./hw_18/lib/script_18_08.rb -s Spring Summer Fall Winter
 
 #ruby ./hw_19/lib/script_19.rb -d www.shoppping.com > ./hw_19/reports/shoppping_com.txt
 #ruby ./hw_19/lib/script_19.rb -d www.alegro.com > ./hw_19/reports/alegro_com.txt
