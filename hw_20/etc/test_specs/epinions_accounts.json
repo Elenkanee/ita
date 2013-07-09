@@ -2,22 +2,100 @@
     "epinions_invalid_id":
     [
         {
-            "username" : "qa20", "password" : "testing"
+            "username" : "raketa", "password" : "Salesforce12"
         },
         {
-            "username" : "qa22", "password" : "testing"
+            "username" : "raketa1", "password" : "Salesforce13"
+        },
+        {
+            "username" : "raketa4", "password" : "Salesforce14"
+        },
+        {
+            "username" : "raketa5", "password" : "Salesforce15"
+        },
+        {
+            "username" : "raketa6", "password" : "Salesforce16"
+        },
+        {
+            "username" : "raketa7", "password" : "Salesforce17"
+        },
+        {
+            "username" : "raketa8", "password" : "Salesforce18"
+        },
+        {
+            "username" : "raketa9", "password" : "Salesforce19"
+        },
+        {
+            "username" : "raketa0", "password" : "Salesforce20"
+        },
+        {
+            "username" : "raketa2", "password" : "Salesforce21"
         }
     ],
     "epinions_invalid_password":
     [
         {
-            "username" : "qa15", "password" : "123test"
+            "username" : "raketa12", "password" : "Salesfoce12"
+        },
+        {
+            "username" : "raketa13", "password" : "Salesorce13"
+        },
+        {
+            "username" : "raketa14", "password" : "Salsforce14"
+        },
+        {
+            "username" : "raketa15", "password" : "Salesforc15"
+        },
+        {
+            "username" : "raketa16", "password" : "Salesfore16"
+        },
+        {
+            "username" : "raketa17", "password" : "Saleorce17"
+        },
+        {
+            "username" : "raketa18", "password" : "Salorce18"
+        },
+        {
+            "username" : "raketa19", "password" : "Salesrce19"
+        },
+        {
+            "username" : "raketa20", "password" : "Salesfce20"
+        },
+        {
+            "username" : "raketa21", "password" : "Salesforc1"
         }
     ],
     "epinions_valid_accounts":
     [
         {
-            "username" : "qa15", "password" : "testing"
+            "username" : "raketa12", "password" : "Salesforce12"
+        },
+        {
+            "username" : "raketa13", "password" : "Salesforce13"
+        },
+        {
+            "username" : "raketa14", "password" : "Salesforce14"
+        },
+        {
+            "username" : "raketa15", "password" : "Salesforce15"
+        },
+        {
+            "username" : "raketa16", "password" : "Salesforce16"
+        },
+        {
+            "username" : "raketa17", "password" : "Salesforce17"
+        },
+        {
+            "username" : "raketa18", "password" : "Salesforce18"
+        },
+        {
+            "username" : "raketa19", "password" : "Salesforce19"
+        },
+        {
+            "username" : "raketa20", "password" : "Salesforce20"
+        },
+        {
+            "username" : "raketa21", "password" : "Salesforce21"
         }
     ]
 }

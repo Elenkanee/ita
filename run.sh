@@ -19,8 +19,8 @@
 
 #ruby ./hw_15/lib/script_15.rb
 
-ruby ./hw_16/lib/script_16_01.rb
-ruby ./hw_16/lib/script_16_02.rb
+#ruby ./hw_16/lib/script_16_01.rb
+#ruby ./hw_16/lib/script_16_02.rb
 
 #ruby ./hw_17/lib/script_17_01.rb -f apple -s banana
 #ruby ./hw_17/lib/script_17_02.rb -f apples -s bananas
@@ -49,3 +49,17 @@ ruby ./hw_16/lib/script_16_02.rb
 #ruby ./hw_19/lib/script_19.rb -d www.epinions.com > ./hw_19/reports/epinions_com.txt
 
 #ruby ./hw_20/lib/epinions_post_qa.rb -f html -o ./reports/epinions_post_qa_test.html
+
+#ruby ./hw_21/lib/script_21_01.rb -i ./hw_21/etc/input_21_01.txt
+#ruby ./hw_21/lib/script_21_02.rb -i ./hw_21/etc/input_21_02.txt
+#ruby ./hw_21/lib/script_21_03.rb -i ./hw_21/etc/input_21_03.txt
+
+#ruby ./hw_22/lib/script_22_01.rb -i ./hw_22/etc/input_22.csv -r 1
+
+
+#ruby ./hw_23/lib/script_23_01.rb -i ./hw_23/etc/input_23_01.json
+
+#ruby ./hw_24/lib/script_24_01.rb -i ./hw_24/etc/input_24.json
+#ruby ./hw_24/lib/script_24_02.rb -i ./hw_24/etc/input_24.json
+
+
