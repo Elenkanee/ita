@@ -48,7 +48,7 @@
 #ruby ./hw_19/lib/script_19.rb -d www.alegro.com > ./hw_19/reports/alegro_com.txt
 #ruby ./hw_19/lib/script_19.rb -d www.epinions.com > ./hw_19/reports/epinions_com.txt
 
-#ruby ./hw_20/lib/epinions_post_qa.rb -f html -o ./reports/epinions_post_qa_test.html
+#ruby ./hw_20/lib/epinions_post_qa.rb -f html -o ./hw_20/reports/epinions_post_qa_test.html
 
 #ruby ./hw_21/lib/script_21_01.rb -i ./hw_21/etc/input_21_01.txt
 #ruby ./hw_21/lib/script_21_02.rb -i ./hw_21/etc/input_21_02.txt
